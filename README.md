@@ -4,7 +4,7 @@
 
 This is _awesome_ because Windows is by far the best graphical operating system and Linux is by far the best terminal based operating system, so with WSL you get the power of the Linux terminal and the polished usability of Windows.
 
-These days the _only_ way to do development is on Windows through WSL, most people aren't doing it this way, but people who know what they are.
+These days the _only_ way to do development is on Windows through WSL, most people aren't doing it this way, but people who know what they are doing are.
 
 Luckily I've already got WSL properly configured for you (which is not so easy) so most stuff just works, but what doesn't work out of the box is running graphical applications from WSL.
 
@@ -61,4 +61,4 @@ I'm not expecting you to be able to do this, as it is a bit fiddly, but I'm goin
 
 Now you can try running the [turtle-1.py](turtle-1.py) script by opening that script and pressing `F5`.
 
-That should keep you busy for a few hours. If you manage to get all that working then try do make some simple shapes in Turtle.
+That should keep you busy for a few hours. If you manage to get all that working then try to make some simple shapes in Turtle.
