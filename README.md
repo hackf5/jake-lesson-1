@@ -1,5 +1,8 @@
 # Getting Started
 
+edited by jake
+
+
 [WSL(2)](https://learn.microsoft.com/en-us/windows/wsl/about) is the Windows Subsystem for Linux, it allows developers to run a Linux distribution on Windows in such a way that it almost feels like Linux is a native part of Windows.
 
 This is _awesome_ because Windows is by far the best graphical operating system and Linux is by far the best terminal based operating system, so with WSL you get the power of the Linux terminal and the polished usability of Windows.
